@@ -1,0 +1,1 @@
+This project is a basic food recipe site. The goal of this project is to showcase an understanding of the basics of html. It includes the use of links, images, and other basics html concepts. This basic site has no css styling in it. The food images will be kept in the images folder and the code will be kept in the code folder.
